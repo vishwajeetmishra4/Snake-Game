@@ -85,14 +85,14 @@ const initGame = () => {
             gameOver = true;
         }
     }
-
-    const checkbox = document.getElementById("checkbox")
-checkbox.addEventListener("change", () => {
-  document.body.classList.toggle("dark")
-})
     playBoard.innerHTML = html;
 }
 
 updateFoodPosition();
 setIntervalId = setInterval(initGame, 100);
 document.addEventListener("keyup", changeDirection);
+
+const checkbox = document.getElementById("checkbox")
+checkbox.addEventListener("change", () => {
+  document.body.classList.toggle("dark")
+})
