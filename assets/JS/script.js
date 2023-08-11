@@ -85,6 +85,11 @@ const initGame = () => {
             gameOver = true;
         }
     }
+
+    const checkbox = document.getElementById("checkbox")
+checkbox.addEventListener("change", () => {
+  document.body.classList.toggle("dark")
+})
     playBoard.innerHTML = html;
 }
 
