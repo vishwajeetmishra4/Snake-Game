@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game(Dark & Light)
 
 
 Snake Game is a fully responsive Snake Game website, responsive for all devices, built using HTML, CSS, and JavaScript.One can use this for Fun.
