@@ -13,6 +13,5 @@ This project & all it's License & CopyRight Claims belongs to **Vishwajeet Mishr
 
 ## Preview
 
-![Screenshot from 2023-08-11 08-55-49](https://github.com/vishwajeetmishra4/Captcha-Generator/assets/135427511/4b8ac36c-e248-42d5-8c71-313677231eb8)
-
+![snake-game](https://github.com/vishwajeetmishra4/Snake-Game/assets/135427511/401f1388-0793-461a-a271-cb3ba999a49e)
 
